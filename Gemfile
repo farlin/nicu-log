@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+
+gem 'react-rails'
+gem 'sprockets', '3.6.3'
+
